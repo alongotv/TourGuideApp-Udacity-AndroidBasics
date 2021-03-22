@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="title_activity_main2">Tour Guide App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Saint Petersburg Tour Guide App</string>
+    <string name="nav_header_subtitle">My project for Udacity</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_mainscreen">Saint Petersburg</string>
+    <string name="name_bellevue">Bellevue Brasserie</string>
+    <string name="name_danslenoir">Dans le Noir?</string>
+    <string name="name_sintoho">Sintoho</string>
+    <string name="name_percorso">Percorso</string>
+    <string name="name_hermitage">Hermitage</string>
+    <string name="name_russianmuseum">Russian Museum</string>
+    <string name="name_peterhof">Peterhof State Museum</string>
+    <string name="name_stisaac">Saint Isaac\'s Cathedral</string>
+    <string name="name_mariinsky">Mariinsky Theatre</string>
+    <string name="name_alexandrinsky">Alexandrinsky Theatre</string>
+    <string name="name_mikhailovsky">Mikhailovsky Opera and Ballet Theater</string>
+    <string name="name_alexcolumn">The Alexander Column</string>
+    <string name="name_peterandpaul">St.Peter and Paul Fortress</string>
+    <string name="name_bronzeman">The Bronze Horseman</string>
+    <string name="name_rostralcolumns">Rostral Columns</string>
+    <string name="name_palacebridge">The Palace Bridge</string>
+
+    <string name="desc_danslenoir">The first "Dans Le Noir?" restaurant was opened in 2004 in Paris by Edouard de
+        Broglie and Etienne Boisrond with the support of the Organization for the blind "Paul Guinot".
+        Now it has branches all over the Europe: Paris, London, Barcelona, St. Petersburg. Guests are excited to guess what will be served on their plate,
+        as you will have to choose one of their four specially designed surprise menus. You need to choose the number of dishes in the set as well, but for the rest – it will be a complete surprise.
+        At Dans Le Noir? guests can experience a variety of emotions through the food blind-tasting for the first time. You will focus on the texture, smell and taste,
+        and experience a large selection of flavors, fully immersed into your own senses.
+        To complete the experience with touch, feel free to eat with your hands.</string>
+    <string name="web_danslenoir"> danslenoir.com</string>
+    <string name="desc_sintoho">"Sintoho" is a mash-up of the city names Singapore, Tokyo and Hong Kong,
+        so prepare for an intense Asian-fusion experience. If you’ve already tried Russian smoked and salted fish,
+        the menu here will be especially refreshing, with exotic variations of tuna and salmon. The interior is very elegant,
+        and is designed to please and entertain: check out a room devoted to teppanyaki cooking, with acrobatic food preparation on an iron griddle.
+        Chef Leon Then innovates constantly,
+        and the dishes here are delicious and beautifully curated. A popular favorite is wasabi prawns, but don’t be afraid to try something totally new!</string>
+    <string name="web_sintoho">fourseasons.com/stpetersburg/dining/restaurants/sintoho/</string>
+    <string name="desc_percorso">St. Petersburg’s top Italian restaurant, Percorso at Four Seasons Hotel Lion Palace St. Petersburg combines authentic
+        Italian cuisine and modern Italian design in the historic Admiralteysky district – right beside St. Isaac’s Square. Meet for cocktails,
+        then stay for delicious dining in the city, enjoying a lively, upbeat bar and restaurant with top-quality Italian food and wines – unequalled among restaurants in Russia.
+    </string>
+    <string name="web_percorso">percorso.ru</string>
+    <string name="desc_bellevue">One of the newer restaurants in St Petersburg also has the best view, bar none.
+        Bellevue sits on the ninth floor of the Kempinski Hotel. It\'s
+        really the roof of this refurbished old mansion on the Moika embankment,
+        but is set back from the façade so that, from below, you can\'t tell it\'s there.Moika was one of the most fashionable addresses in Tsarist St Petersburg.
+        This sturdy, neoclassical town house is only two minutes\'
+        walk from the Winter Palace and was designed around a central courtyard by the Dutch engineer Basil von Witte in 1853.
+        The restaurant, by contrast,
+        is completely modern, glassed in like a conservatory, giving an impressive 180-degree sweep of the rooftops of the Golden Triangle,
+        St Petersburg\'s palace quarter. The decor is vaguely nautical with navy-blue upholstery, cherrywood armrests and crisp white tablecloths.
+        You can also eat outside on the roof. Here, dining tables and comfortable sofas overlook the inner courtyard. Service is friendly and the staff speak excellent English.</string>
+    <string name="web_bellevue">saint-petersburg.com/hotels/kempinski-hotel-moika-22/dining/bellevue-brasserie.asp</string>
+    <string name="desc_mariinsky">The Mariinsky Theatre
+        is a historic theatre of opera and ballet in Saint Petersburg,
+        Russia. Opened in 1860, it became the preeminent music theatre of late 19th-century Russia,
+        where many of the stage masterpieces of Tchaikovsky, Mussorgsky, and Rimsky-Korsakov received their premieres.
+        Through most of the Soviet era, it was known as the Kirov Theatre. Today, the Mariinsky Theatre is home to the Mariinsky Ballet,
+        Mariinsky Opera and Mariinsky Orchestra.
+        Since Yuri Temirkanov\'s retirement in 1988, the conductor Valery Gergiev has served as the theatre\'s general director.</string>
+    <string name="web_mariinsky">mariinsky.ru/en</string>
+    <string name="desc_alexandrinsky">The legendary Alexandrinsky Theatre, fully titled as the Russian State Academic A.S. Pushkin Drama Theatre,
+        is the oldest national theatre in Russia. Established by a special order of the Senate, signed on Saint Alexandre Nevsky day, August, 30 1756,
+        by Peter the Great’s daughter Empress Elizabeth, it became the common ancestor of all future Russian theatres,
+        so the date it was founded on is recognised as the Birthday of professional theatre in Russia.
+        The Alexandrinsky Theatre foundation had also laid the grounds for Russian state policy towards theatrical art.</string>
+    <string name="web_alexandrinsky">en.alexandrinsky.ru</string>
+    <string name="desc_mikhaylovskiy">In 2001, the Mikhailovsky Theatre reclaimed its historic name, and in 2007,
+        it was recognized as St. Petersburg\'s most prestigious musical theatre.
+        Today, while preserving Russia\'s centuries-old musical theatre traditions,
+        the Mikhailovsky Theatre is constantly pushing to be at the forefront of contemporary world theatre.</string>
+    <string name="web_mikhaylovskiy">mikhailovsky.ru/en</string>
+    <string name="desc_hermitage">St. Petersburg\'s most popular visitor attraction, and one of the world\'s largest and most prestigious museums, the
+        Hermitage is a must-see for all first-time travellers to the city. With over 3 million items in its collection,
+        it also definitely rewards repeat visits, and new-comers can only hope to get a brief taste of the riches on offer here,
+        from Impressionist masterpieces to fascinating Oriental treasures. One estimate has it that you would need eleven years to view each exhibit on display for just one minute,
+        so many visitors prefer to organize a guided tour to ensure they have time to catch all the collection\'s highlights.
+        Art aficionados, however, may find it more rewarding to seek out for themselves the works that they are particularly interested in.
+    The bulk of the Hermitage collection is housed in the Winter Palace,
+        formerly the official residence of the Romanov Tsars, and its several annexes.
+        However, there are a number of other sites that constitute part of the Hermitage,
+        including the recently opened Storage Facility in the north of St. Petersburg, which offers guided tours through some of the museum\'s
+        vast stocks. Our guide to visiting the
+        Hermitage is designed to help you find your way around this enormous collection,
+        with a detailed tour of the main site and individual information on each of the affiliated museums.</string>
+    <string name="web_hermitage">hermitagemuseum.org/wps/portal/hermitage/?lng=en</string>
+    <string name="desc_russianmuseum">Rivaling the Tretyakov Gallery in Moscow as the world\'s finest collection of Russian art,
+        the State Russian Museum has an illustrious history that began when the fiercely nationalist Tsar Alexander III became the first Russian ruler to make a significant
+        collection of art by Russian artists. His son, Nicholas II, decided to open a museum in his father\'s honour and, in 1895,
+        bought the Mikhailovskiy Palace to house the collection. Originally called the Alexandrovskiy Museum, it was opened to the public in 1898.
+    After the Revolution, the museum benefited massively from state confiscations of privately owned artworks, and the permanent exhibition was slowly expanded
+        to include the palace\'s Rossi and Benois Wings. The museum\'s collection
+        includes over 400,000 artworks covering the complete history of Russian art,
+        from 11th century icons to work by contemporary video artists.
+        Unlike the Tretyakov Gallery, the Russian Museum continues to exhibit art from all periods in one space.
+        Since the fall of the Soviet Union, the Russian Museum has also become the curator of three of St. Petersburg\'s
+        most significant historical buildings, giving the museum the opportunity to exhibit yet more of its vast collection.</string>
+    <string name="web_russianmuseum">en.rusmuseum.ru</string>
+    <string name="desc_peterhof">Once a formal garden built for Peter the Great, this popular park still has more than 80 of the original marble statues and sculptures
+        and houses Peter\'s Summer Palace,
+        a simply designed two-story building that now displays many of the ruler\'s own artifacts.</string>
+    <string name="web_peterhof">en.peterhofmuseum.ru</string>
+    <string name="desc_stisaac">This gold-domed, ornate, 19th-century cathedral is the third largest domed cathedral in the world,
+        and offers visitors a 300-step climb to a spectacular view of the city.</string>
+    <string name="web_stisaac">eng.cathedral.ru</string>
+    <string name="desc_alexcolumn">From the creator of the marvelous St. Isaac\'s Cathedral
+        came this monument to the Russian military victory in the war with Napoleon\'s France. Named after Emperor Alexander I,
+        who ruled Russia between 1801 and 1825 (during the Napoleonic Wars), the column is a terrific piece of architecture and engineering.</string>
+    <string name="desc_bronzeman">The Bronze Horseman, an impressive monument to the founder of St Petersburg, Peter the Great,
+        stands on Senatskaia Ploshchad (Square), facing the Neva River and surrounded by the Admiralty,
+        St Isaac\'s Cathedral and the buildings of the former Senate and Synod - the civil and religious governing bodies of pre-revolutionary Russia.
+        The monument was built by order of the Empress Catherine the Great as a tribute to her famous predecessor on the Russian throne,
+        Peter the Great. Being a German princess by birth, she was eager to establish a line of continuity with the earlier Russian monarchs.
+        For that reason an inscription on the monument reads in Latin and Russian: Petro Primo Catharina Secunda - To Peter the First from Catherine the Second.
+        This equestrian statue of Peter the Great, created by the famous French sculptor Etienne Maurice Falconet,
+        depicts the most prominent reformer of the Russia state as a Roman hero. The pedestal is made of a single piece of red granite molded into the shape of a cliff.
+        From the top of this "cliff" Peter gallantly leads Russia forward, while his horse steps on a snake, which represents the enemies of Peter and his reforms.</string>
+    <string name="desc_mainscreen"> Saint Petersburg is a world-class destination and Russia\'s
+       second largest city, with a population of more than 5 million perched at the eastern tip of
+       the Baltic Sea and the Neva River.
+       (The city was formerly known as Petrograd, and later Leningrad).
+       This is one of the most breathtakingly beautiful places on earth and virtually any building in the large historic centre, threaded with canals dotted with baroque bridges,
+       can be considered an attraction—and indeed, it is a UNESCO World Heritage site. This is a magical city, with a long list of major attractions.  </string>
+    <string name="web_mainscreen">saint-petersburg.com/</string>
+    <string name="desc_rostralcolumns">The first two rostrum columns,
+        Chesmenskaya and Moreiskaya, were built in the 1770s at Tsarskoe Selo (near Pushkin)
+        in memory of the victories of the Russian fleet (see Russian Naval Memorials). In St. Petersburg
+        there are two rostral columns erected from granite and pudost stone in 1805-10 (architect Jean-Francois Thomas de Thomon)
+        on the spit of Vasilyevsky Island (see also Stock Market Square). From the very start they served as beacons for the trading port.
+        Inside the rostral columns are spiral staircases, leading to the squares are chalice shaped lamps on tripods
+        (since 1957 the gas beacons of the columns have been lit for celebrations). At the pedestal of the columns are sculptures
+        (the craftsman S. Sukhanov, the sculptors J. Camberlain and J. Thibaud),
+        they are traditionally considered allegories for the Volga and Dnepr rivers (the northern column), the Neva and Volkhov (the southern column).
+        In 1999-2000, they were restored.</string>
+    <string name="desc_palacebridge">Although it is only a 20th century creation, Palace Bridge is undoubtedly one of the most famous sights
+        of St. Petersburg, and is quite literally unmissable for most visitors to the city, who will find themselves continually
+        using the bridge to move between Palace Square,
+        home to the Winter Palace and the Hermitage Museum, and the numerous historic attractions on Vasilevskiy Ostrov.</string>
+    <string name="desc_peterandpaul">   Lacking the fame and tourist appeal of the Hermitage or the Mariinsky Theatre,
+    the Peter and Paul Fortress is certainly no less of a St. Petersburg landmark.
+    The first structure to be built in St. Petersburg, and thus the birthplace of the city, it never served its intended defensive function.
+    Instead it has had a rich, hugely varied, and sometimes sinister history as a military base, a home of government departments, the burial ground of the Russian Imperial family,
+    the site of groundbreaking scientific experiments, and a forbidding jail that held some of Russia\'s most prominent political prisoners.</string>
+</resources>

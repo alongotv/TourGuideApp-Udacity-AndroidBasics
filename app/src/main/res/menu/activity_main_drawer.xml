@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_museum"
+            android:icon="@drawable/ic_attraction_site_black_24dp"
+            android:title="Museums" />
+        <item
+            android:id="@+id/nav_theatre"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Theatres" />
+        <item
+            android:id="@+id/nav_site"
+            android:icon="@drawable/ic_sites_black_24dp"
+            android:title="Sites" />
+        <item
+            android:id="@+id/nav_restaurant"
+            android:icon="@drawable/ic_restaurant_black_24dp"
+            android:title="Restaurants" />
+    </group>
+
+
+
+</menu>
